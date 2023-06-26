@@ -51,6 +51,8 @@
 | Имя переменной | rating_each_company                             |
 
 
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/a34cf94c-e159-465d-8093-17b8571b5061)
+
 
 ## Графики
 
