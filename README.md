@@ -24,7 +24,7 @@
          
 ![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/bd8a981a-bd87-42b9-b7f5-4e6d90b39008)
 
-### Гистограмма по аудитории накаждом из каналов
+### Гистограмма по аудитории каждого телеканала
 ![5ea81cf1-9e82-4900-a2fc-0d1aaa07a12c](https://github.com/Nick2201/TRP_rate_system/assets/71185932/45fe6149-075f-4c5c-8984-be85b07369bb)
 
 ### График целевой аудитории по месяцам
