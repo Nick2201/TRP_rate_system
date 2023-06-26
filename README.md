@@ -57,6 +57,10 @@
 
 ## Графики
 
+### Barplot по каждой компании и каждому месяцу
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/f373ed01-698f-4cd5-a7f2-a59018d3f14b)
+
+
 ### Гистограмма по аудитории каждого телеканала
 ![5ea81cf1-9e82-4900-a2fc-0d1aaa07a12c](https://github.com/Nick2201/TRP_rate_system/assets/71185932/45fe6149-075f-4c5c-8984-be85b07369bb)
 
