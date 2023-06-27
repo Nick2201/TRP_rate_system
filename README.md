@@ -28,6 +28,8 @@
 
 
 ![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/c4919996-a43d-409d-800c-af0e3785adda)
+#### График выполнения плана по каждой компании
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/a7a23b2f-25c6-4db4-aacc-9137676217a7)
 
 ### Task 3
 -  Еще один вариант как компании можно соотнести друг к другу
