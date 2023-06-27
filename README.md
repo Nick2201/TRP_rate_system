@@ -50,7 +50,8 @@
 | Ответ  |                   |
 | Имя переменной | rating_each_company  
 |
-![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/5deba45e-68cb-4118-8c46-bd8962080c50)
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/d5cee2ba-fc2d-42af-866b-feae4a55d889)
+
 
 
 ![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/a34cf94c-e159-465d-8093-17b8571b5061)
@@ -59,7 +60,8 @@
 ## Графики
 
 ### Barplot по каждой компании и каждому месяцу
-![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/f373ed01-698f-4cd5-a7f2-a59018d3f14b)
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/8307b3cb-41b1-401f-84b5-9f86f7032561)
+
 
 
 ### Гистограмма по аудитории каждого телеканала
