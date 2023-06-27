@@ -50,7 +50,8 @@
 | Ответ  |                   |
 | Имя переменной | rating_each_company  
 |
-![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/ad5c5a7c-9e35-4555-a8e1-b36c89f6a112)
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/5deba45e-68cb-4118-8c46-bd8962080c50)
+
 
 ![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/a34cf94c-e159-465d-8093-17b8571b5061)
 
