@@ -3,8 +3,14 @@ import numpy as np
 from pathlib import Path
 import openpyxl
 
-docs_folder = Path(Path.cwd()/'TRP_rate_system'/'src'/'docs')
+# docs_folder = Path(Path.cwd()/'TRP_rate_system'/'src'/'docs')
 
+# data_upload = Path(docs_folder/ 'Выгрузка.xlsx')
+# data_plan = Path(docs_folder/ 'План.xlsx')
+# df_upload_raw = pd.read_excel(data_upload)
+
+
+docs_folder = Path(Path.cwd()/'docs')
 data_upload = Path(docs_folder/ 'Выгрузка.xlsx')
 data_plan = Path(docs_folder/ 'План.xlsx')
 df_upload_raw = pd.read_excel(data_upload)
@@ -29,9 +35,9 @@ def normalize_upload_df(df_upload_raw):
     })
     df_upload_raw[['p_vid_duration','TVR']] = df_upload_raw[['p_vid_duration','TVR']].apply(pd.to_numeric)
     df_upload_raw['month'] = df_upload_raw.date.dt.month
+    return df_upload_raw
 
-
-
+df_upload= normalize_upload_df(df_upload_raw)
 
 def normalize_plan_fact_df(df_data_plan):
 
