@@ -46,15 +46,12 @@
 
 |        |                                                 |
 | ------ | ----------------------------------------------- |
-| Задача | Разбить по месяцам + сделать рейтиги непрерывной величиной,  |
+| Задача | Разбить + сделать рейтиги непрерывной величиной,  |
 | Ответ  |                   |
 | Имя переменной | rating_each_company  
 |
-![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/d5cee2ba-fc2d-42af-866b-feae4a55d889)
+![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/02895d93-f907-41cc-b443-0be8a8b6b265)
 
-
-
-![image](https://github.com/Nick2201/TRP_rate_system/assets/71185932/a34cf94c-e159-465d-8093-17b8571b5061)
 
 
 ## Графики
