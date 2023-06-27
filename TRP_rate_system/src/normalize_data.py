@@ -2,7 +2,9 @@ import pandas as pd
 import numpy as np
 from pathlib import Path
 import openpyxl
-
+'''
+    TASK: block if __name__ == __main__
+'''
 # docs_folder = Path(Path.cwd()/'TRP_rate_system'/'src'/'docs')
 
 # data_upload = Path(docs_folder/ 'Выгрузка.xlsx')
